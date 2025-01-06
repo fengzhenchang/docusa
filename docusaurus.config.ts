@@ -167,10 +167,10 @@ const config: Config = {
       ]
     },
     giscus: {
-      repo: "fengzhenchang/Newman",
-      repoId: "R_kgDOGM_wJA",
+      repo: "fengzhenchang/docusa",
+      repoId: "R_kgDONlUKtA",
       category: "Announcements",
-      categoryId: "DIC_kwDOGM_wJM4ClGKg",
+      categoryId: "DIC_kwDONlUKtM4ClyaU",
       theme: "light",
       darkTheme: "dark_dimmed"
     } satisfies Partial<GiscusConfig>,
