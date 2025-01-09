@@ -22,7 +22,7 @@ sidebar_position: 3
 
 > 需求：不和任何框架绑定，不使用任何构建工具，使用纯 Redux 实现计数器
 
-<iframe src="/staticPages/reduxCounter.html" width="300" height="50"></iframe>
+<iframe src="https://static.augustf.top/staticPages/reduxCounter.html" width="300" height="50"></iframe>
 
 使用步骤：
 
