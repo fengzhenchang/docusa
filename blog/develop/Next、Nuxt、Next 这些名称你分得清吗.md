@@ -6,6 +6,7 @@ authors: zhenchang
 tags: [Next, Nuxt, Nest]
 keywords: [Next, Nuxt, Nest]
 description: Next、Nuxt、Nest 应用框架简介。
+image: https://static.augustf.top/img/blog/nextnuxtnest.webp
 ---
 
 前端的技术框架层出不穷，各种生态衍生的库更是多到让人眼花缭乱，光是看着这些名字就一时让人分不清谁是干什么的。
