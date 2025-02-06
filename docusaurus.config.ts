@@ -57,6 +57,11 @@ const config: Config = {
           items: [
             {
               type: "docSidebar",
+              sidebarId: "3000wen",
+              label: "面试题"
+            },
+            {
+              type: "docSidebar",
               sidebarId: "frontEnd",
               label: "前端框架"
             },
